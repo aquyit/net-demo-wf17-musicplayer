@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Playlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tracks Source="file1.mp3">
+    <Artist>Cavendish Music</Artist>
+    <Title>First Day</Title>
+    <Album>Loaded</Album>
+    <Tile>/Images/Image1.jpg</Tile>
+  </Tracks>
+  <Tracks Source="file2.mp3">
+    <Artist>FCD - Focus Music</Artist>
+    <Title>Starfield</Title>
+    <Album>Pop/Rock Underscores 1</Album>
+  </Tracks>
+  <Tracks Source="file3.mp3">
+    <Artist>FCD - Focus Music</Artist>
+    <Title>Access all areas</Title>
+    <Album>Inspiration</Album>
+    <Tile>/Images/Image3.jpg</Tile>
+  </Tracks>
+  <Tracks Source="http://traffic.libsyn.com/wpradio/WPRadio_29.mp3">
+    <Artist>Joe Belfiore</Artist>
+    <Title>What's coming in Windows Phone 7 Mango</Title>
+    <Album></Album>
+    <Tile>http://www.microsoft.com/presspass/images/exec/web/Belfiore_web.jpg</Tile>
+  </Tracks>
+  <Name>Some Music</Name>
+</Playlist>
